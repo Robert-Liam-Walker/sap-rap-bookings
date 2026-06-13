@@ -1,0 +1,4 @@
+@EndUserText.label: 'Bookings service definition'
+define service Z_BOOKING_SRVD {
+  expose ZC_BOOKING as Booking;
+}
